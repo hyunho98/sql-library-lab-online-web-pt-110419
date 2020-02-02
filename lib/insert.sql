@@ -26,6 +26,8 @@ INSERT INTO authors (name) VALUES ("J R R Tolkien");
 INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
 INSERT INTO character_books (book_id, character_id) VALUES (1, 2);
 INSERT INTO character_books (book_id, character_id) VALUES (2, 3);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 4);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 3);
 INSERT INTO character_books (book_id, character_id) VALUES (3, 4);
 INSERT INTO character_books (book_id, character_id) VALUES (4, 5);
 INSERT INTO character_books (book_id, character_id) VALUES (4, 6);
