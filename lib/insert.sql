@@ -1,5 +1,5 @@
-"INSERT INTO series (title, author_id, subgenre_id) VALUES ('Harry Potter', 1, 1)
-INSERT INTO series (title, author_id, subgenre_id) VALUES ('Lord of the Rings', 2, 2)
+'INSERT INTO series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1)
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("Lord of the Rings", 2, 2)
 
 INSERT INTO books (title, year, series_id) VALUES ("The Philosopher''s Stone", 1997, 1)
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 1)
@@ -30,4 +30,4 @@ INSERT INTO character_books (book_id, character_id) VALUES (3, 4)
 INSERT INTO character_books (book_id, character_id) VALUES (4, 5)
 INSERT INTO character_books (book_id, character_id) VALUES (4, 6)
 INSERT INTO character_books (book_id, character_id) VALUES (5, 8)
-INSERT INTO character_books (book_id, character_id) VALUES (6, 7)"
+INSERT INTO character_books (book_id, character_id) VALUES (6, 7)'
