@@ -1,4 +1,4 @@
-"INSERT INTO series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1)"
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1)
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Lord of the Rings", 2, 2)
 
 INSERT INTO books (title, year, series_id) VALUES ("The Philosopher''s Stone", 1997, 1)
